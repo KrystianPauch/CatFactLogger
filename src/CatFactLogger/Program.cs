@@ -9,6 +9,10 @@ using Polly;
 using Polly.Extensions.Http;
 
 var host = Host.CreateDefaultBuilder(args)
+    .ConfigureLogging(logging =>
+    {
+    logging.AddFilter("System.Net.Http.HttpClient", LogLevel.Warning);
+    })
     .ConfigureAppConfiguration((context, config) =>
     {
         config.AddJsonFile("appsettings.local.json", optional: true);

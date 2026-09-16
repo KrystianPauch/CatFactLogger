@@ -50,3 +50,4 @@ B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.pdb
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.genruntimeconfig.cache
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\ref\CatFactLogger.dll
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.sourcelink.json
+B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\appsettings.json
