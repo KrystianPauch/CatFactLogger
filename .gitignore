@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+appsettings.local.json
+cat_facts.txt
+TestResults/
