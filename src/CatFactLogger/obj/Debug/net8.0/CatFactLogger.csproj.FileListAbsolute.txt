@@ -35,14 +35,9 @@ B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\Microsoft.Extension
 B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\Polly.dll
 B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\Polly.Core.dll
 B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\Polly.Extensions.Http.dll
-B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
-B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\System.IO.Pipelines.dll
-B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\System.Text.Json.dll
 B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
-B:\Projekty\CatFactLogger\src\CatFactLogger\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.csproj.AssemblyReference.cache
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.GeneratedMSBuildEditorConfig.editorconfig
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.AssemblyInfoInputs.cache
@@ -54,3 +49,4 @@ B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\refint\CatFactLogge
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.pdb
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.genruntimeconfig.cache
 B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\ref\CatFactLogger.dll
+B:\Projekty\CatFactLogger\src\CatFactLogger\obj\Debug\net8.0\CatFactLogger.sourcelink.json

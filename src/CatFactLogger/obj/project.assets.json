@@ -1739,6 +1739,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.Extensions.Configuration.Json >= 8.0.1",
       "Microsoft.Extensions.Hosting >= 8.0.1",
       "Microsoft.Extensions.Http >= 8.0.1",
       "Microsoft.Extensions.Http.Polly >= 8.0.11",
@@ -1787,6 +1788,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.Extensions.Configuration.Json": {
+            "target": "Package",
+            "version": "[8.0.1, )"
+          },
           "Microsoft.Extensions.Hosting": {
             "target": "Package",
             "version": "[8.0.1, )"
