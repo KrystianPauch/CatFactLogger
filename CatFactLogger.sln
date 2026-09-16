@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5AFEF8C9-8E3C-4267-A1EF-DCDC5967391E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFactLogger", "src\CatFactLogger\CatFactLogger.csproj", "{8163FD33-BE35-4FA8-B881-E8370A30FE90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CAE97A05-F6A7-48BC-8321-CFE76C528389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFactLogger.Tests", "tests\CatFactLogger.Tests\CatFactLogger.Tests.csproj", "{0DC1CA7C-8F46-4235-B87A-A08300C60D8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8163FD33-BE35-4FA8-B881-E8370A30FE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8163FD33-BE35-4FA8-B881-E8370A30FE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8163FD33-BE35-4FA8-B881-E8370A30FE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8163FD33-BE35-4FA8-B881-E8370A30FE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC1CA7C-8F46-4235-B87A-A08300C60D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC1CA7C-8F46-4235-B87A-A08300C60D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC1CA7C-8F46-4235-B87A-A08300C60D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC1CA7C-8F46-4235-B87A-A08300C60D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8163FD33-BE35-4FA8-B881-E8370A30FE90} = {5AFEF8C9-8E3C-4267-A1EF-DCDC5967391E}
+		{0DC1CA7C-8F46-4235-B87A-A08300C60D8D} = {CAE97A05-F6A7-48BC-8321-CFE76C528389}
+	EndGlobalSection
+EndGlobal
