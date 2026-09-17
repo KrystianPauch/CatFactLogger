@@ -141,3 +141,4 @@ B:\Projekty\CatFactLogger\tests\CatFactLogger.Tests\obj\Debug\net8.0\CatFactLogg
 B:\Projekty\CatFactLogger\tests\CatFactLogger.Tests\obj\Debug\net8.0\CatFactLogger.Tests.genruntimeconfig.cache
 B:\Projekty\CatFactLogger\tests\CatFactLogger.Tests\obj\Debug\net8.0\ref\CatFactLogger.Tests.dll
 B:\Projekty\CatFactLogger\tests\CatFactLogger.Tests\obj\Debug\net8.0\CatFactLogger.Tests.sourcelink.json
+B:\Projekty\CatFactLogger\tests\CatFactLogger.Tests\bin\Debug\net8.0\appsettings.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatFactLogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+283b8c8ad0736ee28910edb6723a99a8739da979")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee45e1946273416d1bd588da1fbc858979239723")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatFactLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatFactLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
